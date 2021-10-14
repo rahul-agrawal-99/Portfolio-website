@@ -1,0 +1,7 @@
+project Image :
+
+only PNG format with 1365 by 626 image dimension
+
+profile photo 
+
+PNG with 708 by 708 with round crop format
